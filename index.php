@@ -1,3 +1,3 @@
 <?
-  include_once("demo.html");
+  include_once("index.html");
 ?>
